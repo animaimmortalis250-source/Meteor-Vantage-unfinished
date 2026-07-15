@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "meteor-vantage",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "Meteor Vantage",
+  "description": "A polished theme collection for Meteor Client including macOS, Windows, Bedrock, and custom layouts.",
   "authors": [
-    "seasnail"
+    "animaimmortalis250-source"
   ],
   "contact": {
-    "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "sources": "https://github.com/animaimmortalis250-source/Meteor-Vantage"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
@@ -21,7 +21,7 @@
     "addon-template.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25",
+    "meteor-client:color": "100,150,240",
     "modmenu": {
       "parent": {
         "id": "meteor-client"
